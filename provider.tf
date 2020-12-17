@@ -1,5 +1,5 @@
 
-***provider.tf*********
+***provider.tf***********
 
 #create iam user (access key and sceret key) for create vpc using with terrafrom
 
