@@ -1,0 +1,11 @@
+ *** Terraform installation******
+ 
+1. apt-get update
+
+2. apt-get install wget unzip
+
+3. wget https://releases.hashicorp.com/terraform/0.11.13/terraform_0.11.13_linux_amd64.zip
+
+4. unzip ./terraform_0.11.13_linux_amd64.zip -d /usr/local/bin/
+
+Ref url:  https://linoxide.com/linux-how-to/how-to-install-terraform-on-centos-ubuntu/
